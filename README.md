@@ -8,7 +8,7 @@ This Power BI project provides a comprehensive analysis of investor behavior, fi
 
 ### 💰 Investment Distribution
 Track overall allocation across Mutual Funds, Equity, Fixed Deposits, and Public Provident Fund.
-
+ 
 ### 👥 Demographic Overview
 Analyze average investor age and understand the profile of the investor base.
 
@@ -19,7 +19,7 @@ Identify dominant financial goals such as Retirement Planning, Health Care, and 
 Compare male and female investment preferences across different financial instruments.
 
 ### ⏳ Investment Duration
-Explore preferred investment horizons from short-term to long-term commitments.
+  Explore preferred investment horizons from short-term to long-term commitments.
 
 ### 🔍 Monitoring Behavior
 Understand how frequently investors monitor their investments (Monthly, Weekly, Daily).
